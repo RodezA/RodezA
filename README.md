@@ -2,7 +2,7 @@
 
 Principal AI Engineer & Architect · MIT Certificate in AI & ML · Louisville, CO
 
-15+ years delivering end-to-end AI, data engineering, and cloud solutions across startups and Fortune 500 companies. Currently at Sparq Consulting, building AI/ML platforms on GCP for enterprise clients including UPS.
+15+ years delivering end-to-end AI, data engineering, and cloud solutions across startups and Fortune 500 companies. Building AI/ML on enterprise platforms and customer facing.
 
 ---
 
