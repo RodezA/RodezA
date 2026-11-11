@@ -1,6 +1,6 @@
 # Anthony Rodez
 
-Principal AI/Data Engineer · MIT Certificate in AI & ML · Louisville, CO
+Principal AI Engineer & Architect · MIT Certificate in AI & ML · Louisville, CO
 
 15+ years delivering end-to-end AI, data engineering, and cloud solutions across startups and Fortune 500 companies. Currently at Sparq Consulting, building AI/ML platforms on GCP for enterprise clients including UPS.
 
