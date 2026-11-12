@@ -2,16 +2,16 @@
 
 Principal AI Engineer & Architect · MIT Certificate in AI & ML · Louisville, CO
 
-15+ years delivering end-to-end AI, data engineering, and cloud solutions across startups and Fortune 500 companies. Building AI/ML on enterprise platforms and customer facing.
+15+ years delivering end-to-end AI, data engineering, and cloud solutions across startups and Fortune 500 companies. Currently at Improving, leading AI architecture engagements and building agentic systems for enterprise and regulated clients.
 
 ---
 
 ## Focus Areas
 
-- AI Engineering — Vertex AI, Claude Code, OpenAI, LLM integration
-- Cloud Data Platforms — Snowflake, AWS, GCP, Databricks
-- Data Science — ML modeling, predictive analytics, feature engineering
-- Data Engineering — ETL/ELT pipelines, Redshift, BigQuery, Prefect
+- **AI Architecture** — target-state design, platform evaluation, AI readiness roadmaps
+- **Agentic AI & Harness Engineering** — tool orchestration, subagents, memory, guardrails, evaluation gates
+- **AI Engineering** — Claude Code, Snowflake Cortex, OpenAI, RAG, LLM fine-tuning
+- **Data Platforms** — Databricks (Unity Catalog, Genie), Snowflake, BigQuery, dbt
 
 ## Currently Working With
 
@@ -27,7 +27,7 @@ Python · SQL · Vertex AI · Snowflake · BigQuery · Databricks · AWS · Dock
 
 ## Languages
 
-German (B2) · Spanish (C1) · French (B1)
+German (B2) · Spanish (C1) · French (A2)
 
 ---
 
