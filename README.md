@@ -15,7 +15,7 @@ Principal AI Engineer & Architect · MIT Certificate in AI & ML · Louisville, C
 
 ## Currently Working With
 
-Python · SQL · Vertex AI · Snowflake · BigQuery · Databricks · AWS · Docker · Terraform
+   Python · Claude Code · Snowflake Cortex · Databricks · OpenAI · Azure · Snowflake · dbt · Vertex AI · Terraform
 
 ## Certifications
 
